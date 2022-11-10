@@ -1,0 +1,38 @@
+{
+  "places": {
+    "recentlyViewed": [
+      {
+        "image": "stay1",
+        "name": "stay1",
+        "rating": "5/5 - very good 🌟",
+      },
+      {
+        "image": "stay2",
+        "name": "stay2",
+        "rating": "3.2/5 - average 🤝",
+      },
+      {
+        "image": "stay3",
+        "name": "stay3",
+        "rating": "4.2/5 - very good 🌟",
+      }
+    ],
+    "recommendedStays": [
+      {
+        "image": "recommended1",
+        "name": "recommended1",
+        "rating": "4.2/5 - very good 🌟",
+      },
+      {
+        "image": "recommended2",
+        "name": "recommended2",
+        "rating": "1.0/5 - poor 👎",
+      },
+      {
+        "image": "recommended3",
+        "name": "recommended3",
+        "rating": "4.2/5 - very good 🌟",
+      }
+    ]
+  }
+}

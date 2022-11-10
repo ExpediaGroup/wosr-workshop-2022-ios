@@ -1,0 +1,50 @@
+{
+  "places": {
+    "recentlyViewed": [
+      {
+        "image": "stay1",
+        "name": "stay1",
+        "nameFontStyle": "medium",
+        "rating": "5/5 - very good 🌟",
+        "ratingFontStyle": "small"
+      },
+      {
+        "image": "stay2",
+        "name": "stay2",
+        "nameFontStyle": "medium",
+        "rating": "3.2/5 - average 🤝",
+        "ratingFontStyle": "small"
+      },
+      {
+        "image": "stay3",
+        "name": "stay3",
+        "nameFontStyle": "medium",
+        "rating": "4.2/5 - very good 🌟",
+        "ratingFontStyle": "small"
+      }
+    ],
+    "recommendedStays": [
+      {
+        "image": "recommended1",
+        "name": "recommended1",
+        "nameFontStyle": "medium",
+        "rating": "4.2/5 - very good 🌟",
+        "ratingFontStyle": "small"
+      },
+      {
+        "image": "recommended2",
+        "name": "recommended2",
+        "nameFontStyle": "medium",
+        "rating": "1.0/5 - poor 👎",
+        "ratingFontStyle": "small"
+      },
+      {
+        "image": "recommended3",
+        "name": "recommended3",
+        "nameFontStyle": "medium",
+        "rating": "4.2/5 - very good 🌟",
+        "ratingFontStyle": "small"
+      }
+    ]
+  }
+}
